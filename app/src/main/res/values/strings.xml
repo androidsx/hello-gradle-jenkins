@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Hello-Gradle-Jenkins</string>
-    <string name="hello_world">Hello world - Build PR from Jenkins</string>
+    <string name="hello_world">Hello world - Build PR from Jenkins 3</string>
     <string name="action_settings">Settings</string>
 
 </resources>
