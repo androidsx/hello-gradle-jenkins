@@ -13,9 +13,6 @@ buildscript {
     }
 }
 
-//apply plugin: 'android-sdk-manager'
-apply plugin: 'android'
-
 allprojects {
     repositories {
         jcenter()
