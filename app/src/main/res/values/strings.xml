@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Hello-Gradle-Jenkins</string>
-    <string name="hello_world">Hello world - Try build trigger!</string>
+    <string name="hello_world">Hello world - Try clean-assemble</string>
     <string name="action_settings">Settings</string>
 
 </resources>
